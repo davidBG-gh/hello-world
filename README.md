@@ -6,5 +6,6 @@ My second entry to the hello-world readme branch
 My third entry to the hello-world readme branch
 My fourth entry to the hello-world readme branch
 hello-world-repository
-Entry in master branch only
+Entry in master branch only - Delete from 2nd branch
+Addition from 2nd branch
 
